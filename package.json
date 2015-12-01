@@ -1,0 +1,22 @@
+{
+  "name": "afterparty",
+  "version": "1.0.1",
+  "description": "New Relic Node.js Interactive Unofficial Afterparty",
+  "main": "party.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/smithclay/afterparty.git"
+  },
+  "keywords": [
+    "afterparty"
+  ],
+  "author": "New Relic Community Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smithclay/afterparty/issues"
+  },
+  "homepage": "https://github.com/smithclay/afterparty#readme"
+}
