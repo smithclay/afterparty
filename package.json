@@ -4,7 +4,8 @@
   "description": "New Relic Node.js Interactive Unofficial Afterparty",
   "main": "party.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "echo \"RSVP Now! Wednesday, December 9 at 6pm. New Relic Portland Offices. https://bit.ly/nodeparty\""
   },
   "repository": {
     "type": "git",
